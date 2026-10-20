@@ -24,6 +24,7 @@ Foram utilizados:
   - GualaDRAKE, VideoBook da LPIC (en Español), LPIC-1 ~ 101 - Versión 5.0 Español, Do 1 ao 11;
   - Resoluções de simulados RHCSA;
   - Blog LinuxCert.Guru, disponível em: https://linuxcert.guru/blog/top-google-question-rhcsa/.
+
 As fontes foram selecionadas com diversos critérios, inclusive para testar as possibilidades do NotebookLM, entre eles: lingua estrangeira,
 temática, relevância e tipo de mídia.
   
