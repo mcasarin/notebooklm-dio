@@ -17,7 +17,7 @@ E também como entrega de projeto de uso do NotebookLM para o curso 'Santander 2
 Foram utilizados:
 - Livros oficiais da LPI (PDF), disponíveis em: https://learning.lpi.org/pt/learning-materials/learning-materials/
 - Livro 'The docker book', James Turnbull, disponível em: https://dockerbook.com/thedockerbook_sample.pdf
-- Docmentação oficial do Kubernetes, disponível em: https://kubernetes.io/docs/home/
+- Documentação oficial do Kubernetes, disponível em: https://kubernetes.io/docs/home/
 - Vídeos do YouTube:
   - DioLinux, Título: 30 comandos do terminal linux básicos que você precisa saber para ser um hacker;
   - FreeCodeCamp, Título: Introduction to Linux, Full Course for beginners;
